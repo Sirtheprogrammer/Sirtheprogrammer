@@ -7,7 +7,7 @@
 </p>  
 </p>
 <h1 align="center"> JUST A PASSIONATE DEV  </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=fix+the+matrix+%F0%9F%94%A5;Break+the+Matrix+%F0%9F%92%BB;Automate+Everything+%E2%9C%8C%EF%B8%8F;Born+to+Code+%F0%9F%92%BB;No+Rules.+No+Limits+%F0%9F%94%A5" alt="Typing SVG" />
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=fix+the+matrix+%F0%9F%94%A5;Break+the+Matrix+%F0%9F%92%BB;Automate+Everything+%E2%9C%8C%EF%B8%8F;Born+to+Code+%F0%9F%92%BB;No+Rules.+No+Limits+%F0%9F%94%A5" alt="Typing SVG" />
 
 
 
