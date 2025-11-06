@@ -1,7 +1,14 @@
 <h1 align="center"> SirTheProgrammer </h1>
+
+<p align="center">  
+  <a href="https://github.com/ahmmikun">
+    <img src="https://i.pinimg.com/originals/63/bf/a2/63bfa20b6e5658bff2c8236b52933261.gif" alt="Profile GIF" height="300">
+  </a>
+</p>  
 </p>
 <h1 align="center"> JUST A PASSIONATE DEV  </h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=fix+the+matrix+%F0%9F%94%A5;Break+the+Matrix+%F0%9F%92%BB;Automate+Everything+%E2%9C%8C%EF%B8%8F;Born+to+Code+%F0%9F%92%BB;No+Rules.+No+Limits+%F0%9F%94%A5" alt="Typing SVG" />
+
 
 
 <div align="center">
