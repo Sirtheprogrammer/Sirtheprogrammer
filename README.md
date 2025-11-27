@@ -61,3 +61,7 @@
 
 </div>
 
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sirtheprogrammer&theme=gruvbox)](https://git.io/streak-stats)
+
