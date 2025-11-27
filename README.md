@@ -63,4 +63,4 @@
 
 ---
 
-<img src="https://streak-stats.demolab.com?user=sirtheprogrammer&theme=gruvbox" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/demo/preview.php?user=sirtheprogrammer&theme=gruvbox" alt="GitHub Streak" />
