@@ -3,12 +3,12 @@
 
 <p align="center">
   <a href="https://github.com/sirtheprogrammer">
-    <img src="https://i.pinimg.com/originals/63/bf/a2/63bfa20b6e5658bff2c8236b52933261.gif" alt="Profile GIF" height="260">
+    <img src="https://i.pinimg.com/originals/aa/9c/55/aa9c554ee9c56c2bf2d575faa918abc9.gif" alt="Profile GIF" height="260">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=520&lines=Building+practical+software%2C+one+project+at+a+time;Full-Stack+Developer+%7C+JavaScript+%26+Python;Founder+%40+CODESKY+(codesky.tech);Automating+workflows+with+n8n+%26+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=520&lines=Building+practical+software%2C+one+project+at+a+time;Full-Stack+Developer+%7C+JavaScript+%26+Golang;Founder+%40+CODESKY+(codesky.tech);Automating+workflows+with+n8n+%26+APIs" alt="Typing SVG" />
 </p>
 
 ---
@@ -46,9 +46,7 @@ I'm currently deepening my expertise in JavaScript and full-stack development, w
 <div align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </div>
 
@@ -76,8 +74,8 @@ I'm currently deepening my expertise in JavaScript and full-stack development, w
 ##  Let's Connect
 
 <p align="center">
-  <a href="https://codesky.tech"><img src="https://img.shields.io/badge/Website-CODESKY-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://sir.codesky.tech"><img src="https://img.shields.io/badge/Website-CODESKY-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/sirtheprogrammer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p align="center"><i>Building practical, real-world software — one project at a time.</i></p>
+<p align="center"><i>Building practical, real-world software.</i></p>
