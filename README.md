@@ -21,7 +21,7 @@ I'm currently deepening my expertise in JavaScript and full-stack development, w
 
 - 🌱 Currently strengthening   and full-stack skills
 - ⚙️ Interested in workflow automation and AI-integrated applications
-- 📫 Reach me via [mail](mail@sir.codesky.tech)
+- 📫 Reach me via <a href="mailto:mail@sir.codesky.tech">**sir@codesky.tech**</a>
 
 ---
 
