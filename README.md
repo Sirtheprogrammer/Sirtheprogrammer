@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm SirTheProgrammer 👋</h1>
-<h3 align="center">Software Developer · Founder, CODESKY</h3>
+<h1 align="center">Hi, I'm SirTheProgrammer </h1>
+<h3 align="center">Software Developer </h3>
 
 <p align="center">
-  <a href="https://github.com/ahmmikun">
+  <a href="https://github.com/sirtheprogrammer">
     <img src="https://i.pinimg.com/originals/63/bf/a2/63bfa20b6e5658bff2c8236b52933261.gif" alt="Profile GIF" height="260">
   </a>
 </p>
@@ -13,29 +13,19 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-I'm a developer based in Dar es Salaam, Tanzania, affiliated with the **Dar es Salaam Institute of Technology (DIT)**. I run **[CODESKY](https://codesky.tech)**, where I design and build software systems, web applications, and internal platforms for clients and personal ventures.
+I'm a developer based in Dar es Salaam, Tanzania,  I run **[CODESKY](https://codesky.tech)**, where I design and build software systems, web applications, and internal platforms for clients and personal ventures.
 
 I'm currently deepening my expertise in JavaScript and full-stack development, with a growing focus on automation, AI-assisted workflows, and building end-to-end products — from concept to deployment.
 
-- 🏢 Founder & Developer at **CODESKY** — software systems, web apps, internal tools
-- 🎓 Affiliated with the Dar es Salaam Institute of Technology (DIT)
-- 🌱 Currently strengthening my JavaScript fundamentals and full-stack skills
+- 🌱 Currently strengthening   and full-stack skills
 - ⚙️ Interested in workflow automation and AI-integrated applications
-- 📫 Reach me via [codesky.tech](https://codesky.tech)
+- 📫 Reach me via [mail](mail@sir.codesky.tech)
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| **BibleFix Hearts App** | Native Android companion app for a faith-based relationships content brand aimed at adults 40+, designed to extend the channel's reach beyond video content, with ad-based monetization and planned premium subscription tier. |
-| **SirTheProgrammer Movie Store** | A movie web application inspired by Nkiri, featuring direct download links, user authentication, profile management, light/dark theme toggle, search, and comments — with future ad monetization. |
-| **Collaborative React App** | A React application built with a collaborator, featuring image upload/gallery via imgbb, a Gemini-powered AI assistant, Firebase authentication, and real-time chat between registered users. |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -81,22 +71,13 @@ I'm currently deepening my expertise in JavaScript and full-stack development, w
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirtheprogrammer&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/demo/preview.php?user=sirtheprogrammer&theme=gruvbox&hide_border=true" alt="GitHub Streak" height="165"/>
-</div>
-
----
-
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://codesky.tech"><img src="https://img.shields.io/badge/Website-CODESKY-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://github.com/ahmmikun"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/sirtheprogrammer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center"><i>Building practical, real-world software — one project at a time.</i></p>
