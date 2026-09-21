@@ -15,9 +15,9 @@
 
 ##  About Me
 
-I'm a developer based in Dar es Salaam, Tanzania,  I run **[CODESKY](https://codesky.tech)**, where I design and build software systems, web applications, and internal platforms for clients and personal ventures.
+I'm a developer based in Dar es Salaam, Tanzania,  I work under **[CODESKY](https://codesky.tech)**, where I design and build software systems, web applications, and internal platforms for clients and personal ventures.
 
-I'm currently deepening my expertise in JavaScript and full-stack development, with a growing focus on automation, AI-assisted workflows, and building end-to-end products — from concept to deployment.
+I'm currently deepening my expertise in Golang and Rust and full-stack development, with a growing focus on automation, AI-assisted workflows, and building end-to-end products — from concept to deployment.
 
 - 🌱 Currently strengthening   and full-stack skills
 - ⚙️ Interested in workflow automation and AI-integrated applications
